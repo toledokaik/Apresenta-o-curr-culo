@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+}
+
+#nome {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslateblue;
+}
+
+#imagem{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 220px;
+    border-radius: 200px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sobreMim {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#redesSociais {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imgGithub {
+    max-width: 18px;
+}
+
+#imgLinkedin {
+    max-width: 18px;
+}
+
+#imgInsta {
+    max-width: 18px;
+}
